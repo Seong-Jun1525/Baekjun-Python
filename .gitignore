@@ -1,3 +1,2 @@
-./pyvenv.cfg
-Lib
-Scripts
+Lib/
+Scripts/
